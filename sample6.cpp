@@ -1,5 +1,4 @@
-/*Write a program that will ask the user to input two strings and displays the
-length of two strings when they are concatenated.*/
+/*Write a program that will ask the user to input two strings and displays the length of two strings when they are concatenated.*/
 
 #include <stdio.h>
 #include <string.h>
